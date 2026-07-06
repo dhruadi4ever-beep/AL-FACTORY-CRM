@@ -20,7 +20,6 @@ pyperclip==1.11.0
 PyRect==0.2.0
 PyScreeze==1.0.1
 pytweening==1.2.0
-pywin32==311
 pywinauto==0.6.9
 requests==2.32.5
 setuptools==82.0.0
